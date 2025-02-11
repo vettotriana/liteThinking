@@ -146,9 +146,9 @@ npm run dev
 
 ## 📧 Contacto
 
-- **Email:** contacto@enithgma.com
+- **Email:** contacto@hotmail.co.uk
 - **Teléfono:** +57 322 7318115
-- **Desarrollado por:** Enithgma SAS 🚀
+- **Desarrollado por:** German Triana 🚀
 
 
 ---
